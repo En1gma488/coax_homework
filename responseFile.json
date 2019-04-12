@@ -1,0 +1,531 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "What's moving markets today: Live updates - CNN",
+      "description": "Here's what investors are paying attention to.",
+      "url": "https://www.cnn.com/business/live-news/stock-market-news-today-041119/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181016154749-101618-nyse-3-traders-file-super-tease.jpg",
+      "publishedAt": "2019-04-11T13:55:00Z",
+      "content": "US jobless claims dropped to their lowest level since October 1969 last week, the Labor Department reported. Only 196,000 people filed for unemployment benefits in the week ended April 6. The four-week average was 207,000. The data stressed the strength of th… [+358 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": null,
+      "title": "Julian Assange Charged by U.S. With Conspiracy to Hack a Government Computer - The New York Times",
+      "description": "Mr. Assange, the founder of WikiLeaks, took refuge in the Ecuadorean Embassy in London in 2012. He was arrested there on Thursday after Ecuador revoked his asylum status.",
+      "url": "https://www.nytimes.com/2019/04/11/world/europe/julian-assange-wikileaks-ecuador-embassy.html",
+      "urlToImage": "https://static01.nyt.com/images/2019/04/11/world/11assange-hp-sub1/b896c0608d3a40cf93ad10199043dcbf-facebookJumbo.jpg",
+      "publishedAt": "2019-04-11T13:12:20Z",
+      "content": "Mr. Assange, born in Australia, has long been in the sights of the United States government since his 2010 release of American documents and videos about the wars in Afghanistan and in Iraq, and confidential cables sent among diplomats. Mr. Assange has most r… [+602 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nba.com"
+      },
+      "author": "NBA.com",
+      "title": "Series Preview: Surging Rockets face defensive-minded Jazz - NBA India",
+      "description": "Series Preview: Surging Rockets face defensive-minded Jazz",
+      "url": "http://www.nba.com/playoffs/2019/westseries4/preview",
+      "urlToImage": "https://cdn.nba.net/nba-drupal-prod/styles/landscape_1045w/s3/2019-04/harden-driving-mitchell-0411.jpg?itok=R3Zy-Lrw",
+      "publishedAt": "2019-04-11T13:07:00Z",
+      "content": "The Houston Rockets have been preaching it for weeks, that their destiny this season is in their own hands. They rolled down the stretch of the season, confident they could return to the Western Conference finals for a rematch with the reigning two-time NBA c… [+4735 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner",
+      "title": "Nvidia’s latest driver brings ray tracing to GTX-series graphics cards - The Verge",
+      "description": "If you own a compatible GTX-series graphics card, Nvidia’s latest driver will enable ray tracing in games that support it. This is your chance to try it out before upgrading. However, don’t expect miracles when it comes to performance.",
+      "url": "https://www.theverge.com/2019/4/11/18305084/nvidia-driver-ray-tracing-gtx-gpu-graphics-card",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/fWz-9MsdPSm-JD2TpauzNPsaIlw=/0x150:3840x2160/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/6452935/WwBCPl4.0.jpg",
+      "publishedAt": "2019-04-11T13:00:00Z",
+      "content": "Nvidia has released a new driver that allows ray tracing effects to be switched on in GeForce GTX 10- and 16-series graphics cards, such as the GTX 1080 and the GTX 1660. Ray tracing is a resource-intensive feature that makes rendering lighting, shadows, and … [+1916 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Npr.org"
+      },
+      "author": "James Doubek",
+      "title": "Sudan's Military Says It Has Taken Control And Arrested President Omar Al-Bashir - NPR",
+      "description": "Protesters have been calling for President Omar al-Bashir's ouster for months and thousands swelled the capital Khartoum's streets. The military said he was detained in a \"safe place.\"",
+      "url": "https://www.npr.org/2019/04/11/712105501/sudans-military-says-it-has-taken-control-and-arrested-president-omar-al-bashir",
+      "urlToImage": "https://media.npr.org/assets/img/2019/04/11/gettyimages-1136253364_wide-dc1f23f236157299be7788a00962f91a0bd66f3b.jpg?s=1400",
+      "publishedAt": "2019-04-11T12:44:00Z",
+      "content": "Sudanese soldiers stand guard on armored vehicles as demonstrators protest against President Omar al-Bashir's regime near the army headquarters in the Sudanese capital Khartoum Thursday. AFP/Getty Images A military council has taken control of Sudan and arres… [+3377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kitco.com"
+      },
+      "author": "http://www.facebook.com/kitconews",
+      "title": "Gold Prices Under Pressure As Producer Inflation Rises 0.6% In March - Kitco News",
+      "description": "(Kitco News) - The gold market remains under pressure, but continues to hold on to support around $1,300 an ounce even as whole sale inflation pressures rose sharply last month.",
+      "url": "https://www.kitco.com/news/2019-04-11/Gold-Prices-Under-Pressure-As-Producer-Inflation-Rises-0-6-In-March.html",
+      "urlToImage": "https://www.kitco.com/news/2019-04-11/images/shutterstock_352756844.jpg",
+      "publishedAt": "2019-04-11T12:36:00Z",
+      "content": "( Kitco News ) - The gold market remains under pressure after wholesale inflation pressures rose sharply last month. Thursday, the U.S. Labor Department said its Producer Price Index (PPI) rose 0.6% in March, following Februarys increase 0.1% ; the data was s… [+1249 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Jason Nichols",
+      "title": "Jason Nichols: Here's why we should all pay attention to Mayor Pete Buttigieg's campaign - Fox News",
+      "description": "Everyone should pay attention to the way Democratic presidential hopeful Pete Buttigieg is running his campaign.",
+      "url": "https://www.foxnews.com/opinion/jason-nichols-mayor-pete-buttigiegs-campaign",
+      "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2019/03/21/694940094001_6016520221001_6016516132001-vs.jpg",
+      "publishedAt": "2019-04-11T12:00:25Z",
+      "content": "While Democratic candidates scurry for attention in a crowded field, making bold proposals in hopes of capturing the imagination of the large anti-Trump electorate, one seems to have found the fastest trajectory from obscurity to the top tier. Enter South Ben… [+4616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Youtube.com"
+      },
+      "author": null,
+      "title": "Theresa May issues Brexit statement in Commons (LIVE) - The Sun",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=3ZD3BRjxVa4",
+      "urlToImage": null,
+      "publishedAt": "2019-04-11T11:59:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Black hole picture 2019: \"Our jaws dropped,\" astrophysicist says of major milestone - CBS News",
+      "description": "Black holes are the universe's most powerful vacuum, inhaling everything",
+      "url": "https://www.cbsnews.com/news/black-hole-picture-2019-major-milestone-our-jaws-dropped-astrophysicist-says/",
+      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2019/04/10/f009be0a-83bd-4732-8012-d68f6de5af83/thumbnail/1200x630/809c3bc9be09ea89b97ae3cd6efe14ee/black-hole-ap-19100474348599.jpg",
+      "publishedAt": "2019-04-11T11:44:00Z",
+      "content": "For the first time, we are seeing an image of one of the most mysterious and fascinating corners of the universe: a black hole with 6.5 billion times the mass of our sun. It is devouring the insides of a galaxy about 55 million light years away. It's a major … [+2261 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tomsguide.com"
+      },
+      "author": null,
+      "title": "The Galaxy S10 5G Already Has a Big Problem - Tom's Guide",
+      "description": "Galaxy S10 5G owners are saying that they are losing internet connectivity when the phone switches from 5G to 4G, forcing reboots.",
+      "url": "https://www.tomsguide.com/us/galaxy-s10-5g-connectivity-issues,news-29849.html",
+      "urlToImage": "https://img.purch.com/o/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS9YLzQvODI0MTUyL29yaWdpbmFsL1MxMC1maW5nZXJwcmludC5qcGc=",
+      "publishedAt": "2019-04-11T11:43:52Z",
+      "content": "Samsung's Galaxy S10 5G has launched in Korea. And already, some folks are complaining about connectivity woes. Credit: Tom's Guide Citing posts owners have made on Internet sites, Business Korea is reporting that many Galaxy S10 5G owners are having connecti… [+2136 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Talkingpointsmemo.com"
+      },
+      "author": "Nicole Lafond",
+      "title": "American Media Inc 'Disgusted' With National Enquirer, Wants To Sell - TPM",
+      "description": "The hedge fund that controls American Media Inc. has become increasingly &#8220;disgusted&#8221; by the National Enquirer&#8217;s reporting practices and AMI...",
+      "url": "https://talkingpointsmemo.com/news/hedge-fund-that-controls-ami-disgusted-with-national-enquirer-wants-to-sell",
+      "urlToImage": "https://cdn.talkingpointsmemo.com/wp-content/uploads/2019/04/GettyImages-1095416774.jpg",
+      "publishedAt": "2019-04-11T11:40:00Z",
+      "content": "The hedge fund that controls American Media Inc. has become increasingly “disgusted” by the National Enquirer’s reporting practices and AMI is actively looking to sell the tabloid, The Washington Post reported. After the tabloid and AMI CEO David Pecker becam… [+879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Clickondetroit.com"
+      },
+      "author": "Frank McGeorge, Derick Hutchinson",
+      "title": "Metro Detroit measles outbreak: Vaccinated before 1989? You may need a booster - WDIV ClickOnDetroit",
+      "description": "The number of confirmed cases of measles in Metro Detroit is still 41, but the number is expected to increase as more cases are confirmed.",
+      "url": "https://www.clickondetroit.com/health/good-health/metro-detroit-measles-outbreak-vaccinated-before-1989-you-may-need-a-booster",
+      "urlToImage": "https://media.clickondetroit.com/photo/2019/04/10/How%20measles%20immunity%20is%20connected%20to%20age20190410211952.jpg_21705069_ver1.0_1280_720.jpg",
+      "publishedAt": "2019-04-11T11:32:14Z",
+      "content": "DETROIT - The number of confirmed cases of measles in Metro Detroit is still 41, but the number is expected to increase as more cases are confirmed. Local 4's Dr. Frank McGeorge is closely following developments to answer the most common questions. The number… [+1499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ynetnews.com"
+      },
+      "author": "Ynet",
+      "title": "Prepare for landing: Israel's Beresheet spacecraft hours from moon touchdown - Ynetnews",
+      "description": "At a little past 10pm Thursday, the SpaceIL craft will begin its descent to the lunar surface, almost a decade after three entrepenurs decided on the spur of the moment that they would give it a moonshot",
+      "url": "https://www.ynetnews.com/articles/0,7340,L-5492971,00.html",
+      "urlToImage": "https://www.ynetnews.com/PicServer5/2019/03/24/9141177/91411765992999640360no.jpg",
+      "publishedAt": "2019-04-11T11:28:00Z",
+      "content": "After a $100 million investment, a four-year construction process at Israel Aerospace Industries and SpaceIL, and a six-week space trip, on Thursday night Israel aims to become the fourth country in the world to land a spacecraft on the moon. If successful, I… [+3014 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Jan  Wolfe",
+      "title": "Explainer: What might be blacked out of Mueller's Trump-Russia report? - Reuters",
+      "description": "Attorney General William Barr has pledged to release next week Special Counsel Robert Mueller's report on Russia's role in the 2016 U.S. election and contacts between Moscow and President Donald Trump's campaign, albeit with color-coded redactions.",
+      "url": "https://www.reuters.com/article/us-usa-trump-russia-redactions-explainer/explainer-what-might-be-blacked-out-of-muellers-trump-russia-report-idUSKCN1RN19P",
+      "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20190411&t=2&i=1375845714&w=1200&r=LYNXNPEF3A0U5",
+      "publishedAt": "2019-04-11T11:06:00Z",
+      "content": "WASHINGTON (Reuters) - Attorney General William Barr has pledged to release next week Special Counsel Robert Mueller’s report on Russia’s role in the 2016 U.S. election and contacts between Moscow and President Donald Trump’s campaign, albeit with color-coded… [+6895 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Jessica Sager",
+      "title": "Prince Harry and Meghan Markle announce birth plan for royal baby - Fox News",
+      "description": "Prince Harry and Meghan Markle plan to keep the birth of their royal baby private, Kensington Palace announced Thursday.",
+      "url": "https://www.foxnews.com/entertainment/prince-harry-and-meghan-markle-announce-birth-plan-for-royal-baby",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/prince-harry-meghan-markle-new-zealand-signatures-display.jpg",
+      "publishedAt": "2019-04-11T11:04:13Z",
+      "content": "Prince Harry and Meghan Markle plan to keep the birth of their royal baby private, Kensington Palace announced Thursday. “The Duke and Duchess of Sussex are very grateful for the goodwill they have received from people throughout the United Kingdom and around… [+1316 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Josh Campbell and Samira Said, CNN",
+      "title": "A man arrested in connection with the Louisiana black church fires is a law enforcement official's son, reports say - CNN",
+      "description": "A suspect has been taken into custody in connection with fires at three historically black Louisiana churches in 10 days, a law enforcement official familiar with the investigation and a local elected official told CNN on Wednesday night.",
+      "url": "https://www.cnn.com/2019/04/11/us/louisiana-black-church-fires-suspect-detained/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190406103845-01-fires-black-churches-super-tease.jpg",
+      "publishedAt": "2019-04-11T11:02:00Z",
+      "content": "Opelousas, Louisiana (CNN) A man arrested in connection with fires at three historically black Louisiana churches is a law enforcement official's son, according to local reports. Authorities said they will announce significant updates in the case -- in which … [+2338 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iflscience.com"
+      },
+      "author": "Madison Dapcevich",
+      "title": "Deadly Multidrug-Resistant Super Fungus Is Now Spreading Across US - IFLScience",
+      "description": "In what the Centers for Disease Control (CDC) and Prevention calls a “serious threat,” a relatively new and potentially deadly multidrug-resistant fungus i",
+      "url": "https://www.iflscience.com/health-and-medicine/deadly-multidrugresistant-super-fungus-is-now-spreading-across-us/",
+      "urlToImage": "https://cdn.iflscience.com/images/25c5f91d-b0ae-5e63-a897-e7407e56ae54/default-1554935460-cover-image.jpg",
+      "publishedAt": "2019-04-11T10:37:00Z",
+      "content": "In what the Centers for Disease Control (CDC) and Prevention calls a serious threat, a relatively new and potentially deadly multidrug-resistant fungus is spreading on a global scale. Whereas normal yeast lives in warm, damp places, Candida Auris can survive … [+2479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cleveland.com"
+      },
+      "author": "Terry Pluto, The Plain Dealer",
+      "title": "And LeBron James thought things in Cleveland were crazy – Terry Pluto - cleveland.com",
+      "description": "In his 14 NBA seasons, LeBron James has seen a lot. But at this stage of his career, he is now saddled in a front office in chaos.",
+      "url": "https://www.cleveland.com/cavs/2019/04/and-lebron-james-thought-things-in-cleveland-were-crazy-terry-pluto.html",
+      "urlToImage": "https://www.cleveland.com/resizer/lvhRVBS7mCl1y8fc7iEDTlcKMLU=/1200x0/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/XKIVZMK3LRCMTNHY6Q2OYYRUTA.jpg",
+      "publishedAt": "2019-04-11T10:11:00Z",
+      "content": "CLEVELAND, Ohio This is not a column about how LeBron James should have stayed with the Cleveland Cavaliers. He put in his four years on his second tour here, just as he did in Miami. And he delivered a title to Cleveland in 2016, which probably will be the g… [+3843 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Japantimes.co.jp"
+      },
+      "author": "No Author",
+      "title": "Carlos Ghosn's wife 'responded in good faith' to questioning in Tokyo, says lawyer - The Japan Times",
+      "description": "Lawyer Junichiro Hironaka believes there would be no further questions for Carole Ghosn but declined to speculate on whether she would remain in Japan.",
+      "url": "https://www.japantimes.co.jp/news/2019/04/11/business/corporate-business/carlos-ghosns-wife-responded-good-faith-questioning-tokyo-says-lawyer/",
+      "urlToImage": "https://cdn.japantimes.2xx.jp/wp-content/uploads/2019/04/b-carole-a-20190412-1-870x580.jpg",
+      "publishedAt": "2019-04-11T09:55:00Z",
+      "content": "Japanese authorities investigating alleged financial misconduct by former Nissan boss Carlos Ghosn questioned his wife, Carole, at a closed-door hearing on Thursday, his lawyer said. Carole Ghosn has increasingly emerged as a key figure in the case surroundin… [+2188 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aol.com"
+      },
+      "author": "Tristan Anthony",
+      "title": "Geoffrey Rush wins case against Australian newspaper publisher - AOL",
+      "description": "The Oscar-winning actor has won his defamation case after The Daily Telegraph in Australia accused him of inappropriate behavior toward an actress.",
+      "url": "https://www.aol.com/article/entertainment/2019/04/11/geoffrey-rush-wins-case-against-australian-newspaper-publisher/23710023/",
+      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/3441x2256+723+381/resize/1028x675!/format/jpg/quality/85/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-04%2F7022faf0-5c3a-11e9-82fb-fe375f5ac60c",
+      "publishedAt": "2019-04-11T09:20:01Z",
+      "content": "CANBERRA, Australia (AP) Oscar-winning actor Geoffrey Rush won his defamation case on Thursday against a Sydney newspaper publisher and journalist over reports he had been accused of inappropriate behavior toward an actress. The 67-year-old Australian had sue… [+9315 chars]"
+    }
+  ]
+}{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "What's moving markets today: Live updates - CNN",
+      "description": "Here's what investors are paying attention to.",
+      "url": "https://www.cnn.com/business/live-news/stock-market-news-today-041119/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181016154749-101618-nyse-3-traders-file-super-tease.jpg",
+      "publishedAt": "2019-04-11T13:55:00Z",
+      "content": "US jobless claims dropped to their lowest level since October 1969 last week, the Labor Department reported. Only 196,000 people filed for unemployment benefits in the week ended April 6. The four-week average was 207,000. The data stressed the strength of th… [+358 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": null,
+      "title": "Julian Assange Charged by U.S. With Conspiracy to Hack a Government Computer - The New York Times",
+      "description": "Mr. Assange, the founder of WikiLeaks, took refuge in the Ecuadorean Embassy in London in 2012. He was arrested there on Thursday after Ecuador revoked his asylum status.",
+      "url": "https://www.nytimes.com/2019/04/11/world/europe/julian-assange-wikileaks-ecuador-embassy.html",
+      "urlToImage": "https://static01.nyt.com/images/2019/04/11/world/11assange-hp-sub1/b896c0608d3a40cf93ad10199043dcbf-facebookJumbo.jpg",
+      "publishedAt": "2019-04-11T13:12:20Z",
+      "content": "Mr. Assange, born in Australia, has long been in the sights of the United States government since his 2010 release of American documents and videos about the wars in Afghanistan and in Iraq, and confidential cables sent among diplomats. Mr. Assange has most r… [+602 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nba.com"
+      },
+      "author": "NBA.com",
+      "title": "Series Preview: Surging Rockets face defensive-minded Jazz - NBA India",
+      "description": "Series Preview: Surging Rockets face defensive-minded Jazz",
+      "url": "http://www.nba.com/playoffs/2019/westseries4/preview",
+      "urlToImage": "https://cdn.nba.net/nba-drupal-prod/styles/landscape_1045w/s3/2019-04/harden-driving-mitchell-0411.jpg?itok=R3Zy-Lrw",
+      "publishedAt": "2019-04-11T13:07:00Z",
+      "content": "The Houston Rockets have been preaching it for weeks, that their destiny this season is in their own hands. They rolled down the stretch of the season, confident they could return to the Western Conference finals for a rematch with the reigning two-time NBA c… [+4735 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner",
+      "title": "Nvidia’s latest driver brings ray tracing to GTX-series graphics cards - The Verge",
+      "description": "If you own a compatible GTX-series graphics card, Nvidia’s latest driver will enable ray tracing in games that support it. This is your chance to try it out before upgrading. However, don’t expect miracles when it comes to performance.",
+      "url": "https://www.theverge.com/2019/4/11/18305084/nvidia-driver-ray-tracing-gtx-gpu-graphics-card",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/fWz-9MsdPSm-JD2TpauzNPsaIlw=/0x150:3840x2160/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/6452935/WwBCPl4.0.jpg",
+      "publishedAt": "2019-04-11T13:00:00Z",
+      "content": "Nvidia has released a new driver that allows ray tracing effects to be switched on in GeForce GTX 10- and 16-series graphics cards, such as the GTX 1080 and the GTX 1660. Ray tracing is a resource-intensive feature that makes rendering lighting, shadows, and … [+1916 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Npr.org"
+      },
+      "author": "James Doubek",
+      "title": "Sudan's Military Says It Has Taken Control And Arrested President Omar Al-Bashir - NPR",
+      "description": "Protesters have been calling for President Omar al-Bashir's ouster for months and thousands swelled the capital Khartoum's streets. The military said he was detained in a \"safe place.\"",
+      "url": "https://www.npr.org/2019/04/11/712105501/sudans-military-says-it-has-taken-control-and-arrested-president-omar-al-bashir",
+      "urlToImage": "https://media.npr.org/assets/img/2019/04/11/gettyimages-1136253364_wide-dc1f23f236157299be7788a00962f91a0bd66f3b.jpg?s=1400",
+      "publishedAt": "2019-04-11T12:44:00Z",
+      "content": "Sudanese soldiers stand guard on armored vehicles as demonstrators protest against President Omar al-Bashir's regime near the army headquarters in the Sudanese capital Khartoum Thursday. AFP/Getty Images A military council has taken control of Sudan and arres… [+3377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kitco.com"
+      },
+      "author": "http://www.facebook.com/kitconews",
+      "title": "Gold Prices Under Pressure As Producer Inflation Rises 0.6% In March - Kitco News",
+      "description": "(Kitco News) - The gold market remains under pressure, but continues to hold on to support around $1,300 an ounce even as whole sale inflation pressures rose sharply last month.",
+      "url": "https://www.kitco.com/news/2019-04-11/Gold-Prices-Under-Pressure-As-Producer-Inflation-Rises-0-6-In-March.html",
+      "urlToImage": "https://www.kitco.com/news/2019-04-11/images/shutterstock_352756844.jpg",
+      "publishedAt": "2019-04-11T12:36:00Z",
+      "content": "( Kitco News ) - The gold market remains under pressure after wholesale inflation pressures rose sharply last month. Thursday, the U.S. Labor Department said its Producer Price Index (PPI) rose 0.6% in March, following Februarys increase 0.1% ; the data was s… [+1249 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Jason Nichols",
+      "title": "Jason Nichols: Here's why we should all pay attention to Mayor Pete Buttigieg's campaign - Fox News",
+      "description": "Everyone should pay attention to the way Democratic presidential hopeful Pete Buttigieg is running his campaign.",
+      "url": "https://www.foxnews.com/opinion/jason-nichols-mayor-pete-buttigiegs-campaign",
+      "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2019/03/21/694940094001_6016520221001_6016516132001-vs.jpg",
+      "publishedAt": "2019-04-11T12:00:25Z",
+      "content": "While Democratic candidates scurry for attention in a crowded field, making bold proposals in hopes of capturing the imagination of the large anti-Trump electorate, one seems to have found the fastest trajectory from obscurity to the top tier. Enter South Ben… [+4616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Youtube.com"
+      },
+      "author": null,
+      "title": "Theresa May issues Brexit statement in Commons (LIVE) - The Sun",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=3ZD3BRjxVa4",
+      "urlToImage": null,
+      "publishedAt": "2019-04-11T11:59:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Black hole picture 2019: \"Our jaws dropped,\" astrophysicist says of major milestone - CBS News",
+      "description": "Black holes are the universe's most powerful vacuum, inhaling everything",
+      "url": "https://www.cbsnews.com/news/black-hole-picture-2019-major-milestone-our-jaws-dropped-astrophysicist-says/",
+      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2019/04/10/f009be0a-83bd-4732-8012-d68f6de5af83/thumbnail/1200x630/809c3bc9be09ea89b97ae3cd6efe14ee/black-hole-ap-19100474348599.jpg",
+      "publishedAt": "2019-04-11T11:44:00Z",
+      "content": "For the first time, we are seeing an image of one of the most mysterious and fascinating corners of the universe: a black hole with 6.5 billion times the mass of our sun. It is devouring the insides of a galaxy about 55 million light years away. It's a major … [+2261 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tomsguide.com"
+      },
+      "author": null,
+      "title": "The Galaxy S10 5G Already Has a Big Problem - Tom's Guide",
+      "description": "Galaxy S10 5G owners are saying that they are losing internet connectivity when the phone switches from 5G to 4G, forcing reboots.",
+      "url": "https://www.tomsguide.com/us/galaxy-s10-5g-connectivity-issues,news-29849.html",
+      "urlToImage": "https://img.purch.com/o/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS9YLzQvODI0MTUyL29yaWdpbmFsL1MxMC1maW5nZXJwcmludC5qcGc=",
+      "publishedAt": "2019-04-11T11:43:52Z",
+      "content": "Samsung's Galaxy S10 5G has launched in Korea. And already, some folks are complaining about connectivity woes. Credit: Tom's Guide Citing posts owners have made on Internet sites, Business Korea is reporting that many Galaxy S10 5G owners are having connecti… [+2136 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Talkingpointsmemo.com"
+      },
+      "author": "Nicole Lafond",
+      "title": "American Media Inc 'Disgusted' With National Enquirer, Wants To Sell - TPM",
+      "description": "The hedge fund that controls American Media Inc. has become increasingly &#8220;disgusted&#8221; by the National Enquirer&#8217;s reporting practices and AMI...",
+      "url": "https://talkingpointsmemo.com/news/hedge-fund-that-controls-ami-disgusted-with-national-enquirer-wants-to-sell",
+      "urlToImage": "https://cdn.talkingpointsmemo.com/wp-content/uploads/2019/04/GettyImages-1095416774.jpg",
+      "publishedAt": "2019-04-11T11:40:00Z",
+      "content": "The hedge fund that controls American Media Inc. has become increasingly “disgusted” by the National Enquirer’s reporting practices and AMI is actively looking to sell the tabloid, The Washington Post reported. After the tabloid and AMI CEO David Pecker becam… [+879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Clickondetroit.com"
+      },
+      "author": "Frank McGeorge, Derick Hutchinson",
+      "title": "Metro Detroit measles outbreak: Vaccinated before 1989? You may need a booster - WDIV ClickOnDetroit",
+      "description": "The number of confirmed cases of measles in Metro Detroit is still 41, but the number is expected to increase as more cases are confirmed.",
+      "url": "https://www.clickondetroit.com/health/good-health/metro-detroit-measles-outbreak-vaccinated-before-1989-you-may-need-a-booster",
+      "urlToImage": "https://media.clickondetroit.com/photo/2019/04/10/How%20measles%20immunity%20is%20connected%20to%20age20190410211952.jpg_21705069_ver1.0_1280_720.jpg",
+      "publishedAt": "2019-04-11T11:32:14Z",
+      "content": "DETROIT - The number of confirmed cases of measles in Metro Detroit is still 41, but the number is expected to increase as more cases are confirmed. Local 4's Dr. Frank McGeorge is closely following developments to answer the most common questions. The number… [+1499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ynetnews.com"
+      },
+      "author": "Ynet",
+      "title": "Prepare for landing: Israel's Beresheet spacecraft hours from moon touchdown - Ynetnews",
+      "description": "At a little past 10pm Thursday, the SpaceIL craft will begin its descent to the lunar surface, almost a decade after three entrepenurs decided on the spur of the moment that they would give it a moonshot",
+      "url": "https://www.ynetnews.com/articles/0,7340,L-5492971,00.html",
+      "urlToImage": "https://www.ynetnews.com/PicServer5/2019/03/24/9141177/91411765992999640360no.jpg",
+      "publishedAt": "2019-04-11T11:28:00Z",
+      "content": "After a $100 million investment, a four-year construction process at Israel Aerospace Industries and SpaceIL, and a six-week space trip, on Thursday night Israel aims to become the fourth country in the world to land a spacecraft on the moon. If successful, I… [+3014 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Jan  Wolfe",
+      "title": "Explainer: What might be blacked out of Mueller's Trump-Russia report? - Reuters",
+      "description": "Attorney General William Barr has pledged to release next week Special Counsel Robert Mueller's report on Russia's role in the 2016 U.S. election and contacts between Moscow and President Donald Trump's campaign, albeit with color-coded redactions.",
+      "url": "https://www.reuters.com/article/us-usa-trump-russia-redactions-explainer/explainer-what-might-be-blacked-out-of-muellers-trump-russia-report-idUSKCN1RN19P",
+      "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20190411&t=2&i=1375845714&w=1200&r=LYNXNPEF3A0U5",
+      "publishedAt": "2019-04-11T11:06:00Z",
+      "content": "WASHINGTON (Reuters) - Attorney General William Barr has pledged to release next week Special Counsel Robert Mueller’s report on Russia’s role in the 2016 U.S. election and contacts between Moscow and President Donald Trump’s campaign, albeit with color-coded… [+6895 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Jessica Sager",
+      "title": "Prince Harry and Meghan Markle announce birth plan for royal baby - Fox News",
+      "description": "Prince Harry and Meghan Markle plan to keep the birth of their royal baby private, Kensington Palace announced Thursday.",
+      "url": "https://www.foxnews.com/entertainment/prince-harry-and-meghan-markle-announce-birth-plan-for-royal-baby",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/prince-harry-meghan-markle-new-zealand-signatures-display.jpg",
+      "publishedAt": "2019-04-11T11:04:13Z",
+      "content": "Prince Harry and Meghan Markle plan to keep the birth of their royal baby private, Kensington Palace announced Thursday. “The Duke and Duchess of Sussex are very grateful for the goodwill they have received from people throughout the United Kingdom and around… [+1316 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Josh Campbell and Samira Said, CNN",
+      "title": "A man arrested in connection with the Louisiana black church fires is a law enforcement official's son, reports say - CNN",
+      "description": "A suspect has been taken into custody in connection with fires at three historically black Louisiana churches in 10 days, a law enforcement official familiar with the investigation and a local elected official told CNN on Wednesday night.",
+      "url": "https://www.cnn.com/2019/04/11/us/louisiana-black-church-fires-suspect-detained/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190406103845-01-fires-black-churches-super-tease.jpg",
+      "publishedAt": "2019-04-11T11:02:00Z",
+      "content": "Opelousas, Louisiana (CNN) A man arrested in connection with fires at three historically black Louisiana churches is a law enforcement official's son, according to local reports. Authorities said they will announce significant updates in the case -- in which … [+2338 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iflscience.com"
+      },
+      "author": "Madison Dapcevich",
+      "title": "Deadly Multidrug-Resistant Super Fungus Is Now Spreading Across US - IFLScience",
+      "description": "In what the Centers for Disease Control (CDC) and Prevention calls a “serious threat,” a relatively new and potentially deadly multidrug-resistant fungus i",
+      "url": "https://www.iflscience.com/health-and-medicine/deadly-multidrugresistant-super-fungus-is-now-spreading-across-us/",
+      "urlToImage": "https://cdn.iflscience.com/images/25c5f91d-b0ae-5e63-a897-e7407e56ae54/default-1554935460-cover-image.jpg",
+      "publishedAt": "2019-04-11T10:37:00Z",
+      "content": "In what the Centers for Disease Control (CDC) and Prevention calls a serious threat, a relatively new and potentially deadly multidrug-resistant fungus is spreading on a global scale. Whereas normal yeast lives in warm, damp places, Candida Auris can survive … [+2479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cleveland.com"
+      },
+      "author": "Terry Pluto, The Plain Dealer",
+      "title": "And LeBron James thought things in Cleveland were crazy – Terry Pluto - cleveland.com",
+      "description": "In his 14 NBA seasons, LeBron James has seen a lot. But at this stage of his career, he is now saddled in a front office in chaos.",
+      "url": "https://www.cleveland.com/cavs/2019/04/and-lebron-james-thought-things-in-cleveland-were-crazy-terry-pluto.html",
+      "urlToImage": "https://www.cleveland.com/resizer/lvhRVBS7mCl1y8fc7iEDTlcKMLU=/1200x0/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/XKIVZMK3LRCMTNHY6Q2OYYRUTA.jpg",
+      "publishedAt": "2019-04-11T10:11:00Z",
+      "content": "CLEVELAND, Ohio This is not a column about how LeBron James should have stayed with the Cleveland Cavaliers. He put in his four years on his second tour here, just as he did in Miami. And he delivered a title to Cleveland in 2016, which probably will be the g… [+3843 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Japantimes.co.jp"
+      },
+      "author": "No Author",
+      "title": "Carlos Ghosn's wife 'responded in good faith' to questioning in Tokyo, says lawyer - The Japan Times",
+      "description": "Lawyer Junichiro Hironaka believes there would be no further questions for Carole Ghosn but declined to speculate on whether she would remain in Japan.",
+      "url": "https://www.japantimes.co.jp/news/2019/04/11/business/corporate-business/carlos-ghosns-wife-responded-good-faith-questioning-tokyo-says-lawyer/",
+      "urlToImage": "https://cdn.japantimes.2xx.jp/wp-content/uploads/2019/04/b-carole-a-20190412-1-870x580.jpg",
+      "publishedAt": "2019-04-11T09:55:00Z",
+      "content": "Japanese authorities investigating alleged financial misconduct by former Nissan boss Carlos Ghosn questioned his wife, Carole, at a closed-door hearing on Thursday, his lawyer said. Carole Ghosn has increasingly emerged as a key figure in the case surroundin… [+2188 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aol.com"
+      },
+      "author": "Tristan Anthony",
+      "title": "Geoffrey Rush wins case against Australian newspaper publisher - AOL",
+      "description": "The Oscar-winning actor has won his defamation case after The Daily Telegraph in Australia accused him of inappropriate behavior toward an actress.",
+      "url": "https://www.aol.com/article/entertainment/2019/04/11/geoffrey-rush-wins-case-against-australian-newspaper-publisher/23710023/",
+      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/3441x2256+723+381/resize/1028x675!/format/jpg/quality/85/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-04%2F7022faf0-5c3a-11e9-82fb-fe375f5ac60c",
+      "publishedAt": "2019-04-11T09:20:01Z",
+      "content": "CANBERRA, Australia (AP) Oscar-winning actor Geoffrey Rush won his defamation case on Thursday against a Sydney newspaper publisher and journalist over reports he had been accused of inappropriate behavior toward an actress. The 67-year-old Australian had sue… [+9315 chars]"
+    }
+  ]
+}

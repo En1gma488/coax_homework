@@ -13,7 +13,7 @@ class ParserNews #posing some news with query
 
   def initialize(country_name)
     @options = { query: { country: country_name, apiKey: API_KEY} }
-  endgem install rspec
+  end
 
   def country_news
     response = self.class.get("/v2/top-headlines", @options).parsed_response
@@ -34,6 +34,6 @@ class ParserNews #posing some news with query
 
 end
 
-  parser = ParserNews.country_news('US')
-  p parser.var
-  parser.save_file
+  test1 = ParserNews.country_news('US')
+  p test1.var
+  test1.save_file

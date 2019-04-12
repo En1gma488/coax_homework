@@ -1,0 +1,8 @@
+Скоупи: 
+глобальні , інстансні , локанльні
+
+*include & extend
+
+*expeption
+
+*Rspec
